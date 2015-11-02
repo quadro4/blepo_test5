@@ -1,6 +1,14 @@
 
 
 
+/*
+
+command line parameters for test: tsukuba_left.ppm   tsukuba_right.ppm 70
+output path:../../images/tsukuba.ply
+
+One possible improvement: performing normalization in convolution.
+
+*/
 #include <afxwin.h>  
 #include <locale.h>  
 //#include <stdio.h>  
